@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Kashish 👋
 
-<!--
-**Kashish0088/Kashish0088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA (Data Analytics) undergraduate  
+📊 Aspiring Data Analytics Intern  
+📍 Gurugram, India  
 
-Here are some ideas to get you started:
+### Skills
+- Microsoft Excel (Pivot Tables, VLOOKUP, Data Cleaning)
+- Power BI (Dashboards, Data Modeling)
+- Data Cleaning & Validation
+- Decision-Making Models (AHP, TOPSIS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- MCDM Facility Selection Model
+- Excel & Power BI Dashboards (Academic & Training Based)
+- Google cloud console using Gemini
+
+### Certifications
+- Data Analytics Trainee
+- MCDM (Multi-Criteria Decision Making)
+- Digital Marketing (Foundational)
+
+📫 Contact: kashishp.088@gmail.com
